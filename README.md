@@ -1,8 +1,12 @@
 # 2016 Presidential Election Data Hackathon
 
+![Hillary vs Donald](hillary-clinton-and-donald-trump.jpg "Hillary vs Donald")
+
 The [Bay Area WiMLDS Election Data Hackathon](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/events/234866195/) is on Nov 2, 2016.
 
-For convenience, the following datasets from Kaggle.com and data.world are available in this repository:
+## Datasets
+
+For convenience, the following datasets from [kaggle.com](https://www.kaggle.com/) and [data.world](https://data.world/) are available in this repository:
 
 - **2016 US Presidential Debate transcripts:** Full transcripts of the face-off between Clinton & Trump
 - **Candidate Tweets October 2016:** 30,000+ tweets from the first week of October about the political candidates Trump and Hillary with location data.
@@ -13,3 +17,5 @@ For convenience, the following datasets from Kaggle.com and data.world are avail
 - **Hillary Clinton's Emails:** U.S. State Department released nearly 7,000 pages of Clinton's heavily redacted emails
 - **Trump vs Staff Tweets:** This dataset provides recent tweets from the [@realDonaldTrump](https://twitter.com/realdonaldtrump) Twitter account, collected by David Robinson.
 - **Voter Turnout Rates:** National Voter Turnout Rates, 1787-2012 - The complete time series of national presidential and midterm general election turnout rates from 1787-present.
+
+![Just End it Already](vote-giant-meteor-2016.png "Just End it Already")
