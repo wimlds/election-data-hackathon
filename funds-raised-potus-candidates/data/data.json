@@ -1,0 +1,222 @@
+{
+	"data": {
+		"candidates": [
+		  {
+		    "candidate": "Hillary Clinton",
+		    "party": "Democratic",
+		    "funds_raised": {
+		      "outside_groups": 143509897,
+		      "campaign_committee": 373281866,
+		      "total": 516791763
+		    }
+		  },
+		  {
+		    "candidate": "Donald Trump",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 40007484,
+		      "campaign_committee": 165853281,
+		      "total": 205860765
+		    }
+		  },
+		  {
+		    "candidate": "Gary Johnson",
+		    "party": "Libertarian",
+		    "funds_raised": {
+		      "outside_groups": 530100,
+		      "campaign_committee": 7921173,
+		      "total": 8451273
+		    }
+		  },
+		  {
+		    "candidate": "Jill Stein",
+		    "party": "Green",
+		    "funds_raised": {
+		      "outside_groups": 0,
+		      "campaign_committee": 1876899,
+		      "total": 1876899
+		    }
+		  },
+		  {
+		    "candidate": "Bernie Sanders",
+		    "party": "Democratic",
+		    "funds_raised": {
+		      "outside_groups": 871772,
+		      "campaign_committee": 228178942,
+		      "total": 229050714
+		    }
+		  },
+		  {
+		    "candidate": "Marco Rubio",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 109508647,
+		      "campaign_committee": 51747005,
+		      "total": 161255652
+		    }
+		  },
+		  {
+		    "candidate": "Jeb Bush",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 121305749,
+		      "campaign_committee": 34039843,
+		      "total": 155345592
+		    }
+		  },
+		  {
+		    "candidate": "Ted Cruz",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 53389147,
+		      "campaign_committee": 89378426,
+		      "total": 142767573
+		    }
+		  },
+		  {
+		    "candidate": "Ben Carson",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 17027920,
+		      "campaign_committee": 62930378,
+		      "total": 79958298
+		    }
+		  },
+		  {
+		    "candidate": "John Kasich",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 15359076,
+		      "campaign_committee": 18761309,
+		      "total": 34120385
+		    }
+		  },
+		  {
+		    "candidate": "Scott Walker",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 24628395,
+		      "campaign_committee": 8404629,
+		      "total": 33033024
+		    }
+		  },
+		  {
+		    "candidate": "Chris Christie",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 23678497,
+		      "campaign_committee": 8294352,
+		      "total": 31972849
+		    }
+		  },
+		  {
+		    "candidate": "Carly Fiorina",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 14627477,
+		      "campaign_committee": 11974158,
+		      "total": 26601635
+		    }
+		  },
+		  {
+		    "candidate": "Rand Paul",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 11219489,
+		      "campaign_committee": 12093786,
+		      "total": 23313275
+		    }
+		  },
+		  {
+		    "candidate": "Rick Perry",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 15242021,
+		      "campaign_committee": 1427133,
+		      "total": 16669154
+		    }
+		  },
+		  {
+		    "candidate": "Lindsey Graham",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 4777938,
+		      "campaign_committee": 5658206,
+		      "total": 10436144
+		    }
+		  },
+		  {
+		    "candidate": "Mike Huckabee",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 5964972,
+		      "campaign_committee": 4311759,
+		      "total": 10276731
+		    }
+		  },
+		  {
+		    "candidate": "Martin O'Malley",
+		    "party": "Democratic",
+		    "funds_raised": {
+		      "outside_groups": 1148560,
+		      "campaign_committee": 5707014,
+		      "total": 6855574
+		    }
+		  },
+		  {
+		    "candidate": "Bobby Jindal",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 4517207,
+		      "campaign_committee": 1442464,
+		      "total": 5959671
+		    }
+		  },
+		  {
+		    "candidate": "Rick Santorum",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 730809,
+		      "campaign_committee": 1392879,
+		      "total": 2123688
+		    }
+		  },
+		  {
+		    "candidate": "George Pataki",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 1547674,
+		      "campaign_committee": 28480,
+		      "total": 1576154
+		    }
+		  },
+		  {
+		    "candidate": "Jim Webb",
+		    "party": "Democratic",
+		    "funds_raised": {
+		      "outside_groups": 27117,
+		      "campaign_committee": 776838,
+		      "total": 803955
+		    }
+		  },
+		  {
+		    "candidate": "Jim Gilmore",
+		    "party": "Republican",
+		    "funds_raised": {
+		      "outside_groups": 342173,
+		      "campaign_committee": 387261,
+		      "total": 729434
+		    }
+		  }
+		],
+		"total_funds_raised": {
+			"outside_groups": 609962121,
+			"campaign_committee": 1095868081,
+			"total": 1705830202
+		}
+	},
+	"source": {
+		"url": "http://www.opensecrets.org/pres16/",
+		"notes": "This data are for the 2016 election cycle and based on Federal Election Commission data released electronically on Monday, September 12, 2016. It can be distributed or cited by crediting the Center for Responsive Politics. For permission to reprint or usage for commercial uses, contact the Center for Responsive Politics at info@crp.org."
+	}
+}
