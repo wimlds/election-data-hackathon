@@ -18,7 +18,8 @@ tweets.csv
 	in_reply_to_status_id
 	in_reply_to_user_id
 	is_quote_status
-	lang,retweet_count
+	lang
+	retweet_count
 	favorite_count
 	longitude
 	latitude

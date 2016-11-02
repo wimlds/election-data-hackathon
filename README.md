@@ -4,6 +4,15 @@
 
 The [Bay Area WiMLDS Election Data Hackathon](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/events/234866195/) is on Nov 2, 2016.
 
+### Inspiration
+
+Here are a few election data projects to browse for inspiration:
+
+- [Predicting the Presidential Election](http://blog.yhat.com/posts/predicting-the-presidential-election.html) by Yhat
+- [Text analysis of Trump's tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/) by David Robinson
+- [Who Will Win the Election?](http://projects.fivethirtyeight.com/2016-election-forecast/) by FiveThirtyEight
+- [The 19-year-old determining the election](http://lineardigressions.com/episodes/2016/10/16/the-19-year-old-determining-the-election) by Linear Digressions
+
 ## Datasets
 
 For convenience, the following datasets from [kaggle.com](https://www.kaggle.com/) and [data.world](https://data.world/) are available in this repository:
