@@ -8,6 +8,14 @@ Data source: [David Robinson](http://varianceexplained.org/r/trump-tweets/)
 
 ## Files 
 
+The Rmd file below processes the tweets using [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html) and then trains a binary classifier using the [h2o](https://cran.r-project.org/web/packages/h2o/index.html) R package.  The resulting model can then be used to determine the source of future Donald Trump tweets.
+
+- [trump-vs-staff-tweets-binary-classification.Rmd](https://github.com/WiMLDS/election-data-hackathon/blob/master/trump-vs-staff-tweets/trump-vs-staff-tweets-binary-classification.Rmd)
+- [trump-vs-staff-tweets-binary-classification.html](http://htmlpreview.github.io/?https://github.com/WiMLDS/election-data-hackathon/blob/master/trump-vs-staff-tweets/trump-vs-staff-tweets-binary-classification.html)
+
+
+The script above downloads the data directly from the source as an RData file, but a CSV version of the data is provided here for convenience (and for non-R users):
+ 
 trump_tweets.csv
 
 	text

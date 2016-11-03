@@ -41,6 +41,8 @@ library(purrr)
 library(tidyr)
 ```
 
+**Note:** The order in which you load the packages actually *does* matter (and you will run into an error if they are loaded in the wrong order), so it's best to clear your R environment and load the packages as directed in the script. 
+
 We will create a new, simplified, data frame called `tweets` with the following columsn: "id", "source", "text" and "created".  The "source" column contains just the terms, "iPhone" and "Android". 
 
 ```{r}
@@ -221,7 +223,7 @@ cast_dtm_h2o <- function(data, row_col, column_col, value_col = 1, sparse = FALS
 
 ```{r}
 # Load H2O and start up a local H2O cluster
-install.packages("h2o")
+#install.packages("h2o")
 library(h2o)
 h2o.init(nthreads = -1)
 ```
