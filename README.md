@@ -13,6 +13,8 @@ Here are a few election data projects to browse for inspiration:
 - [Who Will Win the Election?](http://projects.fivethirtyeight.com/2016-election-forecast/) by FiveThirtyEight
 - [The 19-year-old determining the election](http://lineardigressions.com/episodes/2016/10/16/the-19-year-old-determining-the-election) by Linear Digressions
 
+An example R analysis, which processes Trump's tweets, and trains a binary classifier to determine which were authored by him vs his staff is available in the `trump-vs-staff-tweets` folder of this repo.
+
 ## Datasets
 
 For convenience, the following datasets from [kaggle.com](https://www.kaggle.com/) and [data.world](https://data.world/) are available in this repository:
